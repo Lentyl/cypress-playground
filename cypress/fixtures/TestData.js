@@ -37,4 +37,11 @@ export default class TestData {
     email = 'mar84@wp.pl';
     current_address = 'Kazimierza wielkiego 99A/33, 09-100 Płońsk';
     premanent_address = 'Kopernika 88G/45, 88-170 Warszawa';
+    telephone_number = '1234567890';
+    date_of_birth = '1985/01/05';
+    year = '1985';
+    month = 'January';
+    subject = 'English';
+    state = 'NCR';
+    city = 'Delhi';
 }
